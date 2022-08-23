@@ -1,0 +1,13 @@
+*pt
+*out
+*err
+*swn
+*swo
+*pkl
+*swp
+*sh
+*zip
+__pycache__
+.nova/
+.neptune/
+.vscode/
