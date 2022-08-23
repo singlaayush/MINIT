@@ -1,4 +1,4 @@
-# MINIT
+# MINiT
 This repository houses the official implementation of [Multiple Instance NeuroImage Transformer (MINiT) paper](https://arxiv.org/abs/2208.09567), accepted at PRedictive Intelligence in MEdicine (PRIME 2022) in Singapore to be held on September 24, 2022.
 
 Here, we share the PyTorch implementation for the base NiT and the MINiT model from the paper. 
